@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Bridge_Rectifier
+D Diode Bridge Rectifiers
+K Diode, Rectifiers, Bridge, Device,
+F https://www.fairchildsemi.com/datasheets/DF/DF01S.pdf
+$ENDCMP
+#
+#End Doc Library
